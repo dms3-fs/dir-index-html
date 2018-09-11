@@ -1,13 +1,13 @@
 {
-  "author": "lgierth",
+  "author": "yozgatsi",
   "bugs": {
-    "url": "https://github.com/ipfs/dir-index-html"
+    "url": "https://github.com/dms3-fs/dir-index-html"
   },
-  "gx": {
-    "dvcsimport": "github.com/ipfs/dir-index-html",
+  "dms3gx": {
+    "dvcsimport": "github.com/dms3-fs/dir-index-html",
     "goversion": "1.5.2"
   },
-  "gxDependencies": [],
+  "dms3gxDependencies": [],
   "version": "1.0.3",
   "language": "go",
   "license": "MIT",

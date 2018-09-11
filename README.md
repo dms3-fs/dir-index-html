@@ -5,9 +5,9 @@
 [![](https://img.shields.io/badge/freenode-%23ipfs-blue.svg?style=flat-square)](http://webchat.freenode.net/?channels=%23ipfs)
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-> Directory listing HTML for go-ipfs gateways
+> Directory listing HTML for go-dms3fs gateways
 
-This repo is not be used standalone. It's used by the gateway code in go-ipfs. It'll be merged into the gateway package, once the gateway has been extracted from go-ipfs.
+This repo is not be used standalone. It's used by the gateway code in go-dms3fs. It'll be merged into the gateway package, once the gateway has been extracted from go-dms3fs.
 
 ![](http://gateway.ipfs.io/ipfs/Qmf82jUC9ZuoSTCNY55hyx3HmiDed3WnhFD5PC7CTSPmC2/cap.png)
 
